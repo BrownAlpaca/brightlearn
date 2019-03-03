@@ -1,0 +1,5 @@
+						References
+W3schools.com. (2019). W3Schools Online Web Tutorials. [online] Available at: https://www.w3schools.com/default.asp [Accessed 25 Jan. 2019].
+Mark Otto, a. (2019). Bootstrap. Getbootstrap.com. Retrieved 25 January 2019, from https://getbootstrap.com/
+PHP 5 Sessions. (2019). W3schools.com. Retrieved 1 March 2019, from https://www.w3schools.com/php/php_sessions.asp
+PHP: session_destroy - Manual . (2019). Php.net. Retrieved 1 March 2019, from http://php.net/manual/en/function.session-destroy.php
